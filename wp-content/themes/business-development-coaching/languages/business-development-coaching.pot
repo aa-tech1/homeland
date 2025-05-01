@@ -1,0 +1,1169 @@
+# Copyright (C) 2025 revolutionwp
+# This file is distributed under the GNU General Prefer License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Development Coaching 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/business-development-coaching\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-10T06:24:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: business-development-coaching\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Business Development Coaching"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/products/free-business-coach-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Business Development Coaching WordPress Theme is a perfect solution for business coaches, consultants, and professional trainers looking to enhance their online presence. Featuring a sleek, professional design, this theme is tailored for various types of coaches, including executive coaches, leadership coaches, career coaches, life coaches, and those offering professional development services.The layout is clean and intuitive, ensuring that users can easily navigate through various sections of your site. With its responsive design, the theme guarantees that your website will look great on all devices, whether accessed via desktop, tablet, or smartphone. Customization options provide the flexibility to tailor your site’s appearance to align with your unique brand identity. The theme includes dedicated sections for testimonials, case studies, client success stories, and coaching programs, enabling you to build credibility and establish trust with potential clients.Key features of the theme include SEO optimization, social media integration, and fast load times, ensuring that your site ranks well in search engines and attracts more visitors. Additionally, it provides tools for client acquisition, customer retention, lead generation, and sales conversion, helping you grow your business effectively. Whether you offer one-on-one coaching, group coaching, virtual coaching sessions, or workshops, this theme is designed to meet your needs.The modern design and robust functionality of the Business Development Coaching Theme make it a valuable asset for any business coach aiming to drive growth, improve communication skills, and foster leadership development. With support for webinars, online courses, and client management, this theme is perfectly suited to meet the demands of today’s coaching professionals."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "revolutionwp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:25
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-import/business_development_coaching_config_file.php:24
+msgid "Demo Importer"
+msgstr ""
+
+#: demo-import/business_development_coaching_config_file.php:26
+msgid "Click On The Image To Import Customizer Demo"
+msgstr ""
+
+#: demo-import/business_development_coaching_config_file.php:27
+msgid "Click On The Image To Import Gutenberg Block Demo"
+msgstr ""
+
+#: demo-import/business_development_coaching_config_file.php:32
+#: demo-import/importer.php:149
+msgid "All Done"
+msgstr ""
+
+#: demo-import/importer.php:139
+msgid "Customizer"
+msgstr ""
+
+#: demo-import/importer.php:143
+msgid "Import Demo"
+msgstr ""
+
+#: demo-import/importer.php:181
+msgid "Thank you for choosing this Business Development Coaching Theme. Using this quick setup wizard, you will be able to configure your new website and get it running in just a few minutes. Just follow these simple steps mentioned in the wizard and get started with your website."
+msgstr ""
+
+#: demo-import/importer.php:190
+msgid "This theme allows you to import demo content and add widgets. Install them using the button below. You can also update or deactivate them using the Customizer."
+msgstr ""
+
+#: demo-import/importer.php:203
+msgid "About Business Development Coaching"
+msgstr ""
+
+#: demo-import/importer.php:204
+#: demo-import/importer.php:205
+msgid "Customize Your Demo"
+msgstr ""
+
+#: demo-import/importer.php:206
+msgid "Visit Your Site"
+msgstr ""
+
+#: demo-import/importer.php:209
+msgid "Finish"
+msgstr ""
+
+#: demo-import/importer.php:228
+#: revolution/inc/breadcrumbs.php:314
+msgid "Home"
+msgstr ""
+
+#: demo-import/importer.php:238
+msgid "About"
+msgstr ""
+
+#: demo-import/importer.php:249
+msgid "Services"
+msgstr ""
+
+#: demo-import/importer.php:260
+msgid "Blog"
+msgstr ""
+
+#: demo-import/importer.php:271
+msgid "Contact Us"
+msgstr ""
+
+#: demo-import/importer.php:298
+msgid "Facebook"
+msgstr ""
+
+#: demo-import/importer.php:304
+msgid "Pinterest"
+msgstr ""
+
+#: demo-import/importer.php:310
+msgid "Twitter"
+msgstr ""
+
+#: demo-import/importer.php:316
+msgid "Youtube"
+msgstr ""
+
+#: demo-import/importer.php:322
+msgid "Instagram"
+msgstr ""
+
+#: demo-import/importer.php:538
+msgid "Welcome to Business Development Coaching"
+msgstr ""
+
+#: demo-import/importer.php:539
+msgid "The quick setup wizard will assist you in configuring your new website. This wizard will import the demo content."
+msgstr ""
+
+#: demo-import/importer.php:542
+msgid "Go Premium Now"
+msgstr ""
+
+#: footer.php:52
+#: page.php:40
+#: page.php:92
+#: sidebar.php:20
+msgid "Search"
+msgstr ""
+
+#: footer.php:56
+msgid "Tags"
+msgstr ""
+
+#: footer.php:70
+msgid "No tags available. Add some tags to display here."
+msgstr ""
+
+#: footer.php:76
+#: page.php:64
+#: page.php:116
+#: revolution/inc/breadcrumbs.php:316
+#: sidebar.php:44
+msgid "Archives"
+msgstr ""
+
+#: footer.php:103
+msgid "Business Development Coaching WordPress Theme By Revolution WP "
+msgstr ""
+
+#: functions.php:25
+msgid "Primary"
+msgstr ""
+
+#: functions.php:26
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:97
+#: functions.php:109
+#: functions.php:121
+#: functions.php:133
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:227
+msgid "Related Post"
+msgstr ""
+
+#: functions.php:443
+msgid "https://wordpress.org/support/theme/business-development-coaching/"
+msgstr ""
+
+#: functions.php:444
+msgid "https://www.revolutionwp.com/pages/community/"
+msgstr ""
+
+#: functions.php:445
+msgid "https://wordpress.org/support/theme/business-development-coaching/reviews/#new-post"
+msgstr ""
+
+#: functions.php:446
+msgid "https://www.revolutionwp.com/products/business-coaching-wordpress-theme"
+msgstr ""
+
+#: functions.php:447
+msgid "https://demo.revolutionwp.com/business-development-coaching-pro/"
+msgstr ""
+
+#: functions.php:448
+msgid "https://demo.revolutionwp.com/wpdocs/business-development-coaching-pro/"
+msgstr ""
+
+#: functions.php:449
+msgid "https://demo.revolutionwp.com/wpdocs/business-development-coaching-free"
+msgstr ""
+
+#: functions.php:472
+msgid "Hey, Thank you for installing Business Development Coaching Theme!"
+msgstr ""
+
+#: functions.php:472
+msgid "Click Here for more Details"
+msgstr ""
+
+#: functions.php:473
+msgid "Dismiss"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/business_development_coaching_about_page.php:47
+#: getstarted/business_development_coaching_about_page.php:48
+msgid "About %1$s"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:57
+msgid "Getting Started"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:58
+msgid "Free VS Pro"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:59
+msgid "Changelog"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:60
+msgid "Support"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:61
+msgid "Rate & Review"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/business_development_coaching_about_page.php:72
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:79
+#: getstarted/business_development_coaching_about_page.php:401
+msgid "Buy Pro Theme"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:80
+msgid "Preview Pro Version"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:172
+msgid "Theme screenshot"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:179
+#: getstarted/business_development_coaching_about_page.php:226
+msgid "One Click Demo Import"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:180
+msgid "Easily set up your website with our One Click Demo Import feature. This functionality allows you to replicate our demo site with just a single click, ensuring you have a fully functional layout to start from. Whether you’re a beginner or an experienced developer, this tool simplifies the setup process, saving you time and effort."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:181
+msgid "Click Here For Demo Import"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:185
+msgid "Documentation"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:186
+msgid "Need more details? Check our comprehensive documentation for step-by-step guidance on using the Business Development Coaching Theme."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:187
+msgid "Go to Free Docs"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:191
+msgid "Preview Pro Theme"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:192
+msgid "Discover the full potential of our Pro Theme! Click the Live Demo button to experience premium features and beautiful designs."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:193
+msgid "Live Demo"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:197
+msgid "Buy Business Development Coaching Pro"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:198
+msgid "Unlock unlimited features and enhancements by purchasing the Pro version of Business Development Coaching Theme."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:199
+msgid "Buy Pro Version @$39"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:203
+msgid "Get the Bundle"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:204
+msgid "The WordPress Theme Bundle is a comprehensive collection of 30+ premium themes, offering everything you need to create stunning, professional websites with ease."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:205
+msgid "Get Bundle"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:218
+msgid "Features"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:219
+msgid "Free theme"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:220
+msgid "Pro Theme"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:230
+msgid "After the activation of Business Development Coaching theme, all settings will be imported and Data Import."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:242
+msgid "Responsive Design"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:252
+msgid "Site Logo upload"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:262
+msgid "Footer Copyright text"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:266
+msgid "Remove the copyright text from the Footer."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:278
+msgid "Global Color"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:288
+msgid "Regular Bug Fixes"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:298
+msgid "Theme Sections"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:301
+msgid "2 Sections"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:302
+msgid "15+ Sections"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:308
+msgid "Custom colors"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:312
+msgid "Choose a color for links, buttons, icons and so on."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:324
+msgid "Google fonts"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:328
+msgid "You can choose and use over 600 different fonts, for the logo, the menu and the titles."
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:340
+msgid "Enhanced Plugin Integration"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:350
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:360
+msgid "Premium Support"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:370
+msgid "Extensive Customization"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:380
+msgid "Custom Post Types"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:390
+msgid "High-Level Compatibility with Modern Browsers"
+msgstr ""
+
+#: getstarted/business_development_coaching_about_page.php:399
+msgid "Try Out Our Premium Version"
+msgstr ""
+
+#: getstarted/business_development_coaching_changelog.php:29
+msgid "No changelog available."
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: page.php:44
+#: page.php:96
+#: sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: page.php:54
+#: page.php:106
+#: sidebar.php:34
+msgid "Pages"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#: revolution-home.php:79
+msgid "Read More"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:312
+msgid "Browse:"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:313
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:315
+msgid "404 Not Found"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: revolution/inc/breadcrumbs.php:318
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: revolution/inc/breadcrumbs.php:320
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: revolution/inc/breadcrumbs.php:322
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: revolution/inc/breadcrumbs.php:324
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: revolution/inc/breadcrumbs.php:326
+msgid "Week %s"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:786
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:803
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:820
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:836
+#: revolution/inc/breadcrumbs.php:865
+#: revolution/inc/breadcrumbs.php:892
+#: revolution/inc/breadcrumbs.php:919
+#: revolution/inc/breadcrumbs.php:1259
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:837
+#: revolution/inc/breadcrumbs.php:893
+#: revolution/inc/breadcrumbs.php:1263
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:838
+#: revolution/inc/breadcrumbs.php:1267
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:866
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: revolution/inc/customizer.php:36
+msgid "Business Development Theme Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:56
+msgid "Enable Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:57
+msgid "Enable or Disable Title from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:76
+msgid "Enable Tagline"
+msgstr ""
+
+#: revolution/inc/customizer.php:77
+msgid "Enable or Disable Tagline from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:96
+msgid "Logo Width in PX"
+msgstr ""
+
+#: revolution/inc/customizer.php:113
+msgid "WooCommerce Custom Settings"
+msgstr ""
+
+#: revolution/inc/customizer.php:130
+msgid "Product Per Single Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:154
+msgid "Product Per One Page"
+msgstr ""
+
+#: revolution/inc/customizer.php:179
+msgid "Enable Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:180
+msgid "Checked to show Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:199
+msgid "Related Product Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:223
+msgid "Related Product Per Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:241
+msgid "Archive Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:244
+#: revolution/inc/customizer.php:260
+#: revolution/inc/customizer.php:345
+#: revolution/inc/customizer.php:361
+#: revolution/inc/customizer.php:377
+msgid "Sidebar On Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:245
+#: revolution/inc/customizer.php:261
+#: revolution/inc/customizer.php:346
+#: revolution/inc/customizer.php:362
+#: revolution/inc/customizer.php:378
+msgid "Sidebar On Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:246
+#: revolution/inc/customizer.php:262
+#: revolution/inc/customizer.php:347
+#: revolution/inc/customizer.php:363
+#: revolution/inc/customizer.php:379
+msgid "Full Width Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:257
+msgid "Single Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:273
+msgid "Woocommerce Product Sale Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:277
+#: revolution/inc/customizer.php:482
+#: revolution/inc/customizer.php:1253
+msgid "Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:278
+#: revolution/inc/customizer.php:480
+#: revolution/inc/customizer.php:1254
+msgid "Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:279
+#: revolution/inc/customizer.php:481
+#: revolution/inc/customizer.php:1255
+msgid "Center"
+msgstr ""
+
+#: revolution/inc/customizer.php:289
+msgid "Additional Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:307
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: revolution/inc/customizer.php:308
+msgid "Checked to enable sticky header"
+msgstr ""
+
+#: revolution/inc/customizer.php:328
+msgid "Enable Preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:329
+msgid "Checked to show preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:342
+msgid "Posts Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:358
+msgid "Single Post Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:374
+msgid "Single Page Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:388
+msgid "Blog Page Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:399
+msgid "Enable Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:400
+msgid "Checked To Show Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:412
+msgid "Enable Blog Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:413
+msgid "Checked To Show Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:425
+msgid "Enable Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:426
+msgid "Checked To Show Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:438
+msgid "Enable Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:439
+msgid "Checked To Show Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:451
+msgid "Enable Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:452
+msgid "Checked To Show Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:464
+msgid "Enable Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:465
+msgid "Checked To Show Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:477
+msgid "Blog Post Content Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:500
+msgid "Excerpt Limit"
+msgstr ""
+
+#: revolution/inc/customizer.php:525
+msgid "Edit Button Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:536
+msgid "Single Post Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:547
+msgid "Enable Single Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:548
+msgid "Checked To Show Single Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:560
+msgid "Enable Single Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:561
+msgid "Checked To Show Single Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:573
+msgid "Enable Single Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:574
+msgid "Checked To Show Single Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:586
+msgid "Enable Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:587
+msgid "Checked To Show Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:599
+msgid "Enable Single Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:600
+msgid "Checked To Show Single Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:619
+msgid "Enable Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:620
+msgid "Checked to show Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:640
+msgid "Edit Related Post Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:660
+msgid "Related Post Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:680
+msgid "Global Color Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:696
+msgid "Gradient Color 1"
+msgstr ""
+
+#: revolution/inc/customizer.php:714
+msgid "Gradient Color 2 (Primary color)"
+msgstr ""
+
+#: revolution/inc/customizer.php:725
+msgid "Main Header Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:743
+msgid "Enable Topbar Details"
+msgstr ""
+
+#: revolution/inc/customizer.php:744
+msgid "Enable or Disable Topbar Details"
+msgstr ""
+
+#: revolution/inc/customizer.php:764
+msgid "Edit Topbar Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:784
+msgid "Edit Email ID"
+msgstr ""
+
+#: revolution/inc/customizer.php:804
+msgid "Edit Phone Number"
+msgstr ""
+
+#: revolution/inc/customizer.php:824
+msgid "Edit Middle Header Button Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:843
+msgid "Edit Middle Header Button Link "
+msgstr ""
+
+#: revolution/inc/customizer.php:861
+msgid "Edit Header Button Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:881
+msgid "Edit Header Button Link "
+msgstr ""
+
+#: revolution/inc/customizer.php:895
+msgid "Main Slider Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:913
+msgid "Enable Main Slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:914
+msgid "Checked to show the main slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:937
+msgid "Edit Slider Image "
+msgstr ""
+
+#: revolution/inc/customizer.php:938
+msgid "Edit the slider image."
+msgstr ""
+
+#: revolution/inc/customizer.php:958
+msgid "Edit Short Heading Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:959
+#: revolution/inc/customizer.php:980
+msgid "Edit the slider heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:979
+msgid "Edit Heading Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:1000
+msgid "Edit Content Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:1001
+msgid "Edit the slider content text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1021
+msgid "Edit Button #1 Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:1022
+msgid "Edit the slider button text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1042
+msgid "Edit Button #1 URL "
+msgstr ""
+
+#: revolution/inc/customizer.php:1043
+msgid "Edit the slider button url."
+msgstr ""
+
+#: revolution/inc/customizer.php:1058
+msgid "Blog Option"
+msgstr ""
+
+#: revolution/inc/customizer.php:1076
+msgid "Enable Blog Section"
+msgstr ""
+
+#: revolution/inc/customizer.php:1077
+msgid "Checked to show the category"
+msgstr ""
+
+#: revolution/inc/customizer.php:1097
+msgid "Edit Section Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1098
+msgid "Edit Blog section heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1118
+msgid "Edit Section Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1119
+msgid "Edit Blog section text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1151
+msgid "Select Category to display Blog"
+msgstr ""
+
+#: revolution/inc/customizer.php:1165
+msgid "Footer Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:1182
+msgid "Enable Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1183
+msgid "Checked to show Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1197
+msgid "Footer Background Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:1215
+msgid "Enable Footer Social Menu"
+msgstr ""
+
+#: revolution/inc/customizer.php:1216
+msgid "Checked to show the footer social menu. Go to Dashboard >> Appearance >> Menus >> Create New Menu >> Add Custom Link >> Add Social Menu >> Checked Social Menu >> Save Menu."
+msgstr ""
+
+#: revolution/inc/customizer.php:1235
+msgid "Enable Go To Top"
+msgstr ""
+
+#: revolution/inc/customizer.php:1236
+msgid "Checked to enable Go To Top option."
+msgstr ""
+
+#: revolution/inc/customizer.php:1251
+msgid "Go To Top Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:1272
+msgid "Edit Copyright Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1273
+msgid "Edit the Footer Copyright Section."
+msgstr ""
+
+#: revolution/inc/customizer.php:1378
+msgid "Business Development"
+msgstr ""
+
+#: revolution/inc/customizer.php:1379
+msgid "Buy Pro"
+msgstr ""
+
+#: revolution/inc/customizer.php:1386
+msgid "Lite Documentation"
+msgstr ""
+
+#: revolution/inc/customizer.php:1387
+msgid "Instruction"
+msgstr ""
+
+#: revolution/inc/customizer.php:1393
+msgid "Pro Theme Demo"
+msgstr ""
+
+#: revolution/inc/customizer.php:1394
+msgid "Live Preview"
+msgstr ""
+
+#. translators: %s: post date.
+#: revolution/inc/template-tags.php:26
+msgid "<strong>Posted on:</strong> %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: revolution/inc/template-tags.php:38
+msgctxt "post author"
+msgid "- %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: revolution/inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: revolution/inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: revolution/inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: revolution/inc/template-tags.php:89
+#: revolution/template-parts/content-page.php:38
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:103
+#: revolution/template-parts/content-audio.php:115
+#: revolution/template-parts/content-gallery.php:87
+#: revolution/template-parts/content-gallery.php:99
+#: revolution/template-parts/content-image.php:108
+#: revolution/template-parts/content-image.php:120
+#: revolution/template-parts/content-search.php:74
+#: revolution/template-parts/content-search.php:86
+#: revolution/template-parts/content-video.php:104
+#: revolution/template-parts/content-video.php:116
+#: revolution/template-parts/content.php:74
+#: revolution/template-parts/content.php:86
+msgid "Post Tags: "
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:177
+#: revolution/template-parts/content-audio.php:180
+#: revolution/template-parts/content-gallery.php:161
+#: revolution/template-parts/content-gallery.php:164
+#: revolution/template-parts/content-image.php:148
+#: revolution/template-parts/content-image.php:151
+#: revolution/template-parts/content-search.php:148
+#: revolution/template-parts/content-search.php:151
+#: revolution/template-parts/content-video.php:178
+#: revolution/template-parts/content-video.php:181
+#: revolution/template-parts/content.php:148
+#: revolution/template-parts/content.php:151
+msgid "Continue Reading...."
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:189
+#: revolution/template-parts/content-gallery.php:173
+#: revolution/template-parts/content-image.php:160
+#: revolution/template-parts/content-page.php:24
+#: revolution/template-parts/content-search.php:160
+#: revolution/template-parts/content-video.php:190
+#: revolution/template-parts/content.php:160
+msgid "Pages:"
+msgstr ""
+
+#: revolution/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: revolution/template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#: search.php:63
+#: search.php:98
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+#: single.php:66
+#: single.php:99
+msgid "Previous:"
+msgstr ""
+
+#: single.php:29
+#: single.php:67
+#: single.php:100
+msgid "Next:"
+msgstr ""
